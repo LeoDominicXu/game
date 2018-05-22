@@ -19,9 +19,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.concurrent.Executors;
 
-/**
- * Created by kongzheng on 16/8/26.
- */
 public class MainFrame extends JFrame {
 
     private ChessBoard chessBoard;

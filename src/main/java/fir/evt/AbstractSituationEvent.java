@@ -2,9 +2,7 @@ package fir.evt;
 
 import fir.vo.Point;
 
-/**
- * Created by kongzheng on 16/8/31.
- */
+
 public abstract class AbstractSituationEvent implements Event {
 
     public byte[][] matrix;

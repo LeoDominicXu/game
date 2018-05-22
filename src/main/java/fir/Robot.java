@@ -22,9 +22,6 @@ import static fir.ChessBoard.BLACK;
 import static fir.ChessBoard.EMPTY;
 import static fir.ChessBoard.WHITE;
 
-/**
- * Created by kongzheng on 16/8/30.
- */
 public class Robot {//TODO bugfix 棋型判断仍有bug
 
     private static final Logger log = LoggerFactory.getLogger(Robot.class);

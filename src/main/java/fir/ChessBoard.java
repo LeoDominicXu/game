@@ -33,7 +33,6 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * 棋盘
  * 黑棋先走
  * 人类棋手执黑
- * Created by kongzheng on 16/8/26.
  */
 public class ChessBoard extends Canvas {
 

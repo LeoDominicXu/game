@@ -6,10 +6,6 @@ import static fir.ChessBoard.BLACK;
 import static fir.ChessBoard.EMPTY;
 import static fir.ChessBoard.WHITE;
 
-/**
- * 棋型分析器
- * Created by kongzheng on 16/9/3.
- */
 public class ShapeAnalyzer {
 
     private static final Shape[] SHAPES = Shape.values();

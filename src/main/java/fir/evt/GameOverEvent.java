@@ -2,9 +2,7 @@ package fir.evt;
 
 import fir.ChessBoard;
 
-/**
- * Created by kongzheng on 16/8/30.
- */
+
 public class GameOverEvent implements Event {
 
     public Result result;

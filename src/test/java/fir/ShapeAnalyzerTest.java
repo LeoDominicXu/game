@@ -4,9 +4,6 @@ import fir.vo.Shape;
 import junit.framework.Assert;
 import org.junit.Test;
 
-/**
- * Created by kongzheng on 16/9/7.
- */
 public class ShapeAnalyzerTest {
 
     @Test

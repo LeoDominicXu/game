@@ -7,9 +7,6 @@ import fir.evt.PlaySoundEvent;
 import java.applet.Applet;
 import java.applet.AudioClip;
 
-/**
- * Created by kongzheng on 16/9/2.
- */
 public class SoundPlayer {
 
     private String fileName = "sound.wav";

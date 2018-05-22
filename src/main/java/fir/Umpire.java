@@ -8,10 +8,7 @@ import fir.evt.TurnToHumanEvent;
 import fir.evt.TurnToRobotEvent;
 import fir.vo.Line;
 
-/**
- * 裁判
- * Created by kongzheng on 16/8/30.
- */
+
 public class Umpire {
 
     private EventBus bus;
